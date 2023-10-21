@@ -1,2 +1,2 @@
 # email-sender
-Study Product
+Study Project
